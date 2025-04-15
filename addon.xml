@@ -1,0 +1,14 @@
+<addon id="plugin.video.tericol"
+       version="1.0.0"
+       name="Terrícola TV"
+       provider-name="tericola">
+  <requires>
+    <import addon="xbmc.python" version="2.26.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py"/>
+  <extension point="xbmc.addon.metadata">
+    <summary>Películas, Series y Anime en español</summary>
+    <description>Contenido gratuito desde fuentes públicas.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
