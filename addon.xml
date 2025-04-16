@@ -3,7 +3,7 @@
        name="Terrícola TV"
        provider-name="tericola">
   <requires>
-    <import addon="xbmc.python" version="2.26.0"/>
+<import addon="xbmc.python" version="3.0.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py"/>
   <extension point="xbmc.addon.metadata">
